@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>SparkleDemoWithSPM</title>
+        <item>
+            <title>2.0.0</title>
+            <pubDate>Fri, 31 Dec 2021 17:02:05 +0900</pubDate>
+            <sparkle:version>2.0.0.0</sparkle:version>
+            <sparkle:shortVersionString>2.0.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>12.1</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/pommdau/SparkleDemoWithSPM/releases/download/2.0.0/SparkleDemoWithSPM_2.0.0.dmg" length="1280118" type="application/octet-stream" sparkle:edSignature="WTsROa2mMSWXpnTXaFredBaYgPXPVaYYDXBx98jNnvpVBN9WyAD0feCPH+AXrsUfpnM9Keevy18LPyTQ6Xe6Bg=="/>
+        </item>
+    </channel>
+</rss>
